@@ -1,7 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=%23000000&color=%2300FF24&size=35&width=720&height=100&lines=Hello%2C+my+name+is+Franco+Quattrini...;I+am+a+full+stack+developer+(MERN))](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&color=%23EA1F6A&size=50&center=true&vCenter=true&width=1200&height=200&lines=Hello%2C+my+name+is+Franco+Quattrini...;I%C2%B4m+a+full+stack+web+%26+mobile+developer+%7BMERN%7D)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=franqodev&style=flat&color=orange&label=PROFILE+VIEWS)
   
