@@ -8,6 +8,10 @@
   
 <a href="https://github.com/franqodev/github-readme-stats"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=franqodev&show_icons=true&include_all_commits=true&theme=monokai" alt="Anurag's github stats" /></a>       <a href="https://github.com/franqodev/github-readme-stats"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franqodev&layout=compact&theme=monokai&langs_count=6" /></a>
 
+</div>
+
+<div>
+  
 ## 🛠  Technologies and tools
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -75,5 +79,5 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 
-
 </div>
+
