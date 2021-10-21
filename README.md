@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-
+<img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
@@ -34,12 +34,6 @@
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-## 💻 Workspace
-
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Intel-Core_i7--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-<img src="https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 
 ## 📖  What I am currently learning / improving on
 
@@ -55,11 +49,23 @@
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
 
+## 🖍📐 Design
+
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+
 ## 🤜🤛 Group
 
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white" />
+
+## 💻 Workspace
+
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Intel-Core_i7--10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+<img src="https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 
 ## 📱 Contact
 
@@ -71,19 +77,3 @@
 
 
 </div>
-<!--
-**franqodev/franqodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
