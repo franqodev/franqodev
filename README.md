@@ -6,7 +6,7 @@
   
 <hr></hr>
   
-<a href="https://github.com/franqodev/github-readme-stats"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=franqodev&show_icons=true&include_all_commits=true&theme=monokai" alt="Anurag's github stats" /></a>       <a href="https://github.com/franqodev/github-readme-stats"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franqodev&layout=compact&theme=monokai&langs_count=6" /></a>
+<a href="https://github.com/franqodev/github-readme-stats"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=franqodev&show_icons=true&include_all_commits=true&theme=monokai" alt="Anurag's github stats" /></a>       <a href="https://github.com/franqodev/github-readme-stats"><img align="center" width="41.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franqodev&layout=compact&theme=monokai&langs_count=6" /></a>
 
 </div>
 
