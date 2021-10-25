@@ -1,7 +1,8 @@
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&color=%23EA1F6A&size=50&center=true&vCenter=true&width=1200&height=200&lines=Hello%2C+my+name+is+Franco+Quattrini...;I%C2%B4m+a+full+stack+web+%26+mobile+developer+%7BMERN%7D)](https://git.io/typing-svg)
-
+[<img height="300" src="https://i.postimg.cc/903pVSXK/bootcamp-desarrollador-web-full-stack-mern-mobile-apps.png" />](https://www.credly.com/badges/2294a055-186c-44cf-a7a1-6784e0097f8b/public_url)  
+  
 ![](https://komarev.com/ghpvc/?username=franqodev&style=flat&color=orange&label=PROFILE+VIEWS)
   
 <hr></hr>
